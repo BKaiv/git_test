@@ -1,4 +1,6 @@
 Hello btw
 ahora vamos a probar guardar las cosas como me acaba de enseniar el curso
 no se porque a la primera no se guarda pero volvemos a intentar
-s
+este es otro cambio para probar el nuevmo comando que es la facilitacion para que yo
+no tenga que estar escribiendo la razon del cambio de codigo
+si no que tenga que escribirlo en vs code
